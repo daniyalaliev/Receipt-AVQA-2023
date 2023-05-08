@@ -37,4 +37,4 @@ https://codalab.lisn.upsaclay.fr/competitions/11087
 
 Описание представленного решения и результаты работы предоставлены в PDF файле
 
-![](file:///Users/danialaliev/Desktop/Screenshot%202023-05-08%20at%2018.03.19.png)
+![](https://lh3.googleusercontent.com/ueN4bjSEUcXKiylNgBw5-WyHsq8snj_dNM1suds1jBF2wRKdbjJj9jrzMtklvQdlyoL_Zi3wx8kCq8lhUKP8w0fKBTj6Io97QNP-CYjd)
